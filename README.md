@@ -38,9 +38,22 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+full adder
+
+<img width="544" height="464" alt="Screenshot 2025-11-24 113005" src="https://github.com/user-attachments/assets/7194565c-dba6-4c8f-bbde-7953d9ce5fc5" />
+
+full subtractor
+
+<img width="566" height="395" alt="Screenshot 2025-11-24 113038" src="https://github.com/user-attachments/assets/664cefa1-7f66-48d9-8ddc-ce7afcd70f43" />
+
 **Procedure**
 
 Write the detailed procedure here
+1. Type the program in Quartus software.
+2. Compile and run the program.
+3. Generate the RTL schematic and save the logic diagram.
+4. Create nodes for inputs and outputs to generate the timing diagram.
+5. For different input combinations generate the timing diagram.
 
 **Program:**
 
@@ -48,7 +61,7 @@ full adder
 
 <img width="832" height="220" alt="image" src="https://github.com/user-attachments/assets/3f0251ca-b986-4dcd-9521-62b366013b7c" />
 
-full subtracter
+full subtractor
 
 <img width="671" height="226" alt="image" src="https://github.com/user-attachments/assets/22d6567c-74d5-4b15-872d-f3ad82ca969f" />
 
@@ -60,18 +73,22 @@ Developed by:devi.s RegisterNumber:25004804
 **RTL Schematic**
 
 full adder
+
 <img width="983" height="580" alt="image" src="https://github.com/user-attachments/assets/c7e60cd9-6127-4443-a896-e16f03d25747" />
 
-full subtracter
+full subtractor
+
 <img width="1520" height="632" alt="image" src="https://github.com/user-attachments/assets/cabb7970-13eb-4bfc-979e-8dc9320e994a" />
 
 
 **Output Timing Waveform**
 
 full adder
+
 <img width="1837" height="315" alt="image" src="https://github.com/user-attachments/assets/76adf2b9-3bad-4769-9fe4-170f820c4ba9" />
 
-full subtracter
+full subtractor
+
 <img width="1280" height="191" alt="image" src="https://github.com/user-attachments/assets/068147be-ec33-40f3-9cdb-42742b17fd73" />
 
 **Result:**
